@@ -1,0 +1,11 @@
+{
+  "name": "com.practice.package",
+  "version": "1.0.0",
+  "displayName": "PracticePackage",
+  "description": "Creating a package to automatically install target packages",
+  "unity": "6000.3",
+  "unityRelease": "13f1",
+  "author": {
+    "name": ""
+  }
+}
